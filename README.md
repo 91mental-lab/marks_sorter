@@ -23,7 +23,7 @@ python main.py --files <файл> --report <Название отчёта>
 ![1 файл](https://github.com/user-attachments/assets/9ec10350-2fd8-4991-872c-195660d0cbfd)
 
 
-##Неверное название отчёта 
+Неверное название отчёта 
 ![неверное имя отчёта](https://github.com/user-attachments/assets/046384ab-85e3-4114-a03b-db988952143c)
 
 
